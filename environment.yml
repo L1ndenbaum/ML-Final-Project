@@ -1,4 +1,4 @@
-name: base
+name: ProjectEnv
 channels:
   - defaults
   - https://repo.anaconda.com/pkgs/main
