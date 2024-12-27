@@ -19,6 +19,6 @@
 
 ## 环境
 
-使用conda env create -f environment.yml --no-builds
+使用conda env create -f environment.yml
 来创建环境
 
